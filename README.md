@@ -11,3 +11,9 @@ Abaixo a imagem do projeto para melhor visualização.
 
 * HTML
 * CSS
+
+## Feito por:
+
+### Breno Sampaio
+
+### Linkedin: https://www.linkedin.com/in/breno-sampaio-0347bb25a/
