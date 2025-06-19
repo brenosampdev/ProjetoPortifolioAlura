@@ -16,4 +16,4 @@ Abaixo a imagem do projeto para melhor visualização.
 
 ### Breno Sampaio
 
-### Linkedin: https://www.linkedin.com/in/breno-sampaio-0347bb25a/
+### Linkedin: www.linkedin.com/in/brenosampdev
